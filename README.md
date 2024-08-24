@@ -19,7 +19,7 @@ Recherche en fonction d'un Prénom et d'un Nom, permet d'afficher / obtenir :
 - Entreprise
 - Numéro de l'entreprise
 - Adresses où l'individu est propriétaire / co-propriétaire
-- Régler un point sur le GPS à une addresse (peut ne pas fonctionner)
+- Régler un point sur le GPS à une addresse
 - Véhicules où l'individu est propriétaire / co-propriétaire
 
 ## Utilisation en jeu
