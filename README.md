@@ -9,7 +9,12 @@ Plugin pour le jeu Nova-Life, ajoutant des fonctionnalités de recherche pour le
 
 ## Fonctionnalités
 
-Recherche en fonction d'un Prénom et d'un Nom, permet d'afficher / obtenir :
+Recherche en fonction de :
+- Prénom et Nom
+- Plaque d'immatriculation
+- Numéro de téléphone
+
+Permet d'afficher / obtenir :
 - Prénom
 - Nom
 - Téléphone
